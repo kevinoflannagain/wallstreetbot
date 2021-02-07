@@ -1,0 +1,2 @@
+# wallstreetbot
+scrapes r/WSB
